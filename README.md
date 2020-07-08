@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.x-red) ![ML](https://img.shields.io/badge/Machine-Learning-blue) ![Status](https://img.shields.io/badge/Status-Completed-green) 
+![Python](https://img.shields.io/badge/Python-3.x-red) ![ML](https://img.shields.io/badge/Machine-Learning-blue) ![Status](https://img.shields.io/badge/Status-Completed-success) ![DS](https://img.shields.io/badge/Data-Science-ff69b4)
 
 # Iris-Dataset
 This Repository contains the Iris Dataset Project created by using 4 different Machine Learning Algorithms.
